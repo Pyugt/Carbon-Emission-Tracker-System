@@ -58,4 +58,4 @@ flask db migrate -m "Initial tables"
 flask db upgrade
 
 # Run application
-flask run
+flask run.
