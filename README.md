@@ -24,9 +24,9 @@ A modern web application for tracking and reducing carbon footprints with dual-m
 - Team collaboration tools
 
 ### 🔒 Security
-- Password reset via OTP
-- Role-based access control
-- Data isolation between users
+- Password reset via OTP.
+- Role-based access control.
+- Data isolation between users.
 
 ## 🚀 Quick Start
 
