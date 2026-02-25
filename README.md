@@ -13,9 +13,9 @@ A modern web application for tracking and reducing carbon footprints with dual-m
 ## ✨ Key Features
 
 ### 👤 Individual Mode
-- Personal carbon footprint tracking
-- Monthly emission reports
-- Reduction tips and goals
+- Personal carbon footprint tracking.
+- Monthly emission reports.
+- Reduction tips and goals.
 
 ### 🏭 Industry Mode  
 - Multi-department emission tracking
